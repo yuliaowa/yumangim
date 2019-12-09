@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"107","ios_url":"https:\/\/itunes.apple.com\/cn\/app\/1488423320","applePlist_url":"https:\/\/github.com\/yezilongs\/agentplatformg\/raw\/master\/ios.plist","other":",aHR0cDovL2RhdGEuY3Zzd3EuY29tOjY5MDk=","thirdLoginEnable":"0"}]}}
