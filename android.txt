@@ -1,2 +1,2 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"111","android_url":"http://app.ynhxjj.com/wangwang_111.apk","other":",aHR0cDovL3dhbnQuc2N3cXEuY29tL3NiaW4saHR0cHM6Ly93YW5nd2FuZy5jeGRzYS5jb20vc2JpbixodHRwOi8vd2FuZ3dhbmcua2hubWwuY29tL3NiaW4=","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"111","android_url":"http://app.ynhxjj.com/wangwang_111.apk","other":",aHR0cHM6Ly93YW50LnNjd3FxLmNvbSxodHRwczovL3dhbmd3YW5nLmN4ZHNhLmNvbSxodHRwczovL3dhbmd3YW5nLmtobm1sLmNvbQ==","thirdLoginEnable":"0"}]}}
 
