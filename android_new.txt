@@ -1,2 +1,2 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"110","android_url":"http://app.ynhxjj.com/wangwang_110.apk","other":",aHR0cDovL2RhdGEuY3Zzd3EuY29tOjY5MDk=","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"113","android_url":"http://app.ynhxjj.com/wangwang_110.apk","other":",aHR0cDovL2RhdGEuY3Zzd3EuY29tOjY5MDk=","thirdLoginEnable":"0"}]}}
 
