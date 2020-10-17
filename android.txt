@@ -1,2 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"120","android_url":"http://app.ynhxjj.com/wangwang_120.apk","other":",aHR0cHM6Ly93YW50LnNjd3FxLmNvbSxodHRwczovL3dhbnQueGh6aXQuY29tLGh0dHBzOi8vd2FudC54aHppdC5jb20=","thirdLoginEnable":"0"}]}}
-
+{"root":{"code":"1","message":"ok","result":[{"android_version":"140","android_url":"https://app.iamfa.com/wangwang_140a.apk","other":",aHR0cHM6Ly93YWN0Lnh0eHNob3AuY29tLGh0dHBzOi8vd2FjdC5ubWd6aGRqLmNvbSxodHRwczovL3dhY3Qub2xpb3RveS5jb20=","thirdLoginEnable":"0"}]}}
